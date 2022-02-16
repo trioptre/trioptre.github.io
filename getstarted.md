@@ -21,16 +21,6 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<style>
-     
-.gs-section-01 h3 { 
-     color: green }
-
-.gs-section-01 p {
-     font-size: 25px;
-}
-
-</style>
 
 
 <div class="gs-section-02" markdown="1">
@@ -41,16 +31,6 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<style>
-     
-.gs-section-02 h3 { 
-     color: red }
-
-.gs-section-02 p {
-     font-size: 29px;
-}
-
-</style>
 
 
 <div class="gs-section-03" markdown="1">
@@ -63,16 +43,6 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-<style>
-     
-.gs-section-03 h3 { 
-     color: purple }
-
-.gs-section-03 p {
-     font-size: 30px;
-}
-
-</style>
 
 ### 4. Congratulations! You have a website!
 
@@ -200,5 +170,22 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 .gs-section-01 p {
      font-size: 30px;
 }
+     
+     
+.gs-section-02 h3 { 
+     color: red }
+
+.gs-section-02 p {
+     font-size: 29px;
+}
+     
+          
+.gs-section-03 h3 { 
+     color: purple }
+
+.gs-section-03 p {
+     font-size: 30px;
+ }
+     
 
 </style>
